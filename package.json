@@ -1,0 +1,22 @@
+{
+  "name": "zulu-time-cli",
+  "version": "0.0.0",
+  "description": "A CLI utility for generating Zulu time timestamps.",
+  "main": "index.js",
+  "bin": {
+    "zulu-time": "bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbenner-radham/node-zulu-time-cli.git"
+  },
+  "author": "James Benner <james.benner@gmail.com> (http://www.jamesbenner.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbenner-radham/node-zulu-time-cli/issues"
+  },
+  "homepage": "https://github.com/jbenner-radham/node-zulu-time-cli#readme",
+  "dependencies": {
+    "zulu-time": "^0.1.0"
+  }
+}
